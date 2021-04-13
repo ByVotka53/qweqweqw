@@ -1,10 +1,10 @@
 {
     "DEFAULTS": {
-        "AUTHORS": ["YETKILI ID"],
-        "ACTIVITY_TEXT": "ACIKLAMA",
-        "GUILD_ID": "SUNUCU ID",
-        "VOICE_CHANNEL": "KANAL ID",
-        "MIN_STAFF_ROLE": "YETKILI ROL ID"
+        "AUTHORS": ["826066599760363570","826061335976083456"],
+        "ACTIVITY_TEXT": "✯ 01 İKAROS Hoşgeldiniz!",
+        "GUILD_ID": "815210820321280041",
+        "VOICE_CHANNEL": "816656629860663326",
+        "MIN_STAFF_ROLE": "826066599760363570"
     },
     "FILES": {
         "WELCOME": "ses/hosgeldin.mp3",
